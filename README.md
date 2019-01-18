@@ -1,2 +1,11 @@
 # Congkak-Game
-A simple console application for congkak, which is a traditional game in Malaysia. Built for school assignment. (2016)
+Ensure g++ compiler is installed first.
+
+To compile:
+
+Open command prompt/Open terminal(for VS Code)
+Run the following line: g++ -std=c++11 -c Congkak.cpp -o Congkak.o
+Run the following line: g++ -o Congkak.exe Congkak.o
+To run:
+
+Run the following line: Congkak
